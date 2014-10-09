@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodaySharing", "TodaySharing\TodaySharing.csproj", "{24D9DB98-6261-43CE-BAC7-896FA6122C37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TapCounter", "TapCounter\TapCounter.csproj", "{EA23B3C0-78C0-4AD0-AA69-69243251DA18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24D9DB98-6261-43CE-BAC7-896FA6122C37}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{24D9DB98-6261-43CE-BAC7-896FA6122C37}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{24D9DB98-6261-43CE-BAC7-896FA6122C37}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{24D9DB98-6261-43CE-BAC7-896FA6122C37}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{24D9DB98-6261-43CE-BAC7-896FA6122C37}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{24D9DB98-6261-43CE-BAC7-896FA6122C37}.Debug|iPhone.Build.0 = Debug|iPhone
+		{24D9DB98-6261-43CE-BAC7-896FA6122C37}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{24D9DB98-6261-43CE-BAC7-896FA6122C37}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{24D9DB98-6261-43CE-BAC7-896FA6122C37}.Release|iPhone.ActiveCfg = Release|iPhone
+		{24D9DB98-6261-43CE-BAC7-896FA6122C37}.Release|iPhone.Build.0 = Release|iPhone
+		{24D9DB98-6261-43CE-BAC7-896FA6122C37}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{24D9DB98-6261-43CE-BAC7-896FA6122C37}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{EA23B3C0-78C0-4AD0-AA69-69243251DA18}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{EA23B3C0-78C0-4AD0-AA69-69243251DA18}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{EA23B3C0-78C0-4AD0-AA69-69243251DA18}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{EA23B3C0-78C0-4AD0-AA69-69243251DA18}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{EA23B3C0-78C0-4AD0-AA69-69243251DA18}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{EA23B3C0-78C0-4AD0-AA69-69243251DA18}.Debug|iPhone.Build.0 = Debug|iPhone
+		{EA23B3C0-78C0-4AD0-AA69-69243251DA18}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{EA23B3C0-78C0-4AD0-AA69-69243251DA18}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{EA23B3C0-78C0-4AD0-AA69-69243251DA18}.Release|iPhone.ActiveCfg = Release|iPhone
+		{EA23B3C0-78C0-4AD0-AA69-69243251DA18}.Release|iPhone.Build.0 = Release|iPhone
+		{EA23B3C0-78C0-4AD0-AA69-69243251DA18}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{EA23B3C0-78C0-4AD0-AA69-69243251DA18}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = TodaySharing\TodaySharing.csproj
+	EndGlobalSection
+EndGlobal
