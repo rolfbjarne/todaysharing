@@ -16,10 +16,12 @@ Certificates, Profiles, etc
    * Select the recently created App ID, click Edit at the bottom.
    * Edit the App Groups
    * Check the previously created App Group and Continue.
+   * Repeat once, creating an App ID for the extension, for instance 'com.example.todaysharing.todaysharingextension'
 4. Add a new Provisioning profile
    * Select iOS App Development
    * Select the recently created App ID.
    * Select users and devices as desired.
+   * Repeat once for the extension's App ID.
 5. Modify the project to use your own information:
    * Set TodaySharing's iOS Application's bundle identifier to 'com.example.todaysharing'
    * Open TodaySharing/Entitlements.plist and change the existing app group id to 'group.com.example.todaysharing'
